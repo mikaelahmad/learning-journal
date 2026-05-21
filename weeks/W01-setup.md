@@ -228,7 +228,7 @@ Wochenreview-Highlight: [1 Satz]
 
 Nächste Schritte (Woche 2): Crash Course CS Folgen 5-12 (Hardware-Grundlagen), erste C#-Übungen auf Exercism, "Code" von Petzold beginnen.
 
-Plan-Quelle: github.com/DEINUSER/learning-journal
+Plan-Quelle: github.com/mikaelahmad/learning-journal
 ```
 
 ---
